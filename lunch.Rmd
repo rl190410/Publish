@@ -1,0 +1,30 @@
+---
+title: "伸展運動"
+author: "Calvin, Eddy, Peter, Renee"
+date: "April 10, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Seated Straight-Leg Raise
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iWGr0-dXqww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 伸展運動 - 手、臂
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/99aIysI-vb8?start=35" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 伸展運動 - 腰、腳
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/It3y4HqqcYw?start=56" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 伸展運動 - 頸
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EfHasWd4cGY?start=77" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Seated Elbow Jabs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lNuehyeIKkw?start=180" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
